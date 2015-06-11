@@ -23,7 +23,7 @@ var server = {
 
 // data about the user:
 var user = {
- name: 'jw3884',
+ name: 'jajaja',
  token: null
 };
 
